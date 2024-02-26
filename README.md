@@ -1,6 +1,6 @@
 ![img1](https://github.com/wxkj001/flutter_tiktok/blob/main/shoot/img_1.png)<br>
 
-#### <p align="center"> 基于[DingMouRen/flutter_tiktok](https://www.bilibili.com/video/BV1mK4y1w78B/)的升级将flutter升级到3.x,增加media_kit适应全平台</p>
+#### <p align="center"> 基于[DingMouRen/flutter_tiktok](https://github.com/DingMouRen/flutter_tiktok)的升级将flutter升级到3.x,增加media_kit适应全平台</p>
 
 #### <p align="center"> Flutter实现抖音的UI效果，希望大家喜欢</p>
 
