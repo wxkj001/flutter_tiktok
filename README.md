@@ -4,7 +4,7 @@
 
 #### <p align="center"> Flutter实现抖音的UI效果，希望大家喜欢</p>
 
-#### <p align="center"> `Flutter Version:2.0.2` `Dart Version:2.12.1`</p>
+#### <p align="center"> `Flutter Version:3.3.0`</p>
 <p align="center"> <img src="https://github.com/wxkj001/flutter_tiktok/blob/main/shoot/emoi_1.jpeg"   /></p>
 
 
